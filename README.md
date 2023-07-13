@@ -1,5 +1,5 @@
 # Who am I
-Hi, Amsyar here! This will be the place where I **post my code projects**, whether it be serious or for fun. TI also write **short guides** in the form of [gists](https://gist.github.com/amsyarzero).
+Hi, Amsyar here! This will be the place where I **post my code projects**, whether it be serious or for fun. I also write **short guides** in the form of [gists](https://gist.github.com/amsyarzero).
 
 ## Interests
 - 🎮 Game development
