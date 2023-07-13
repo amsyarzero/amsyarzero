@@ -1,9 +1,12 @@
 # Who am I
-Hi, Amsyar here! 
+Hi, Amsyar here! This will be the place where I **post my code projects**, whether it be serious or for fun. TI also write **short guides** in the form of [gists](https://gist.github.com/amsyarzero).
 
-This will be the place where I post my code projects, whether it be serious or for fun. That also includes short guides in the form of gists.
+## Interests
+- 🎮 Game development
+- ⚙️ Software development
+- 🌐 Web development
 
-## OS that I'm using
+## OS History
 Currently using [Fedora Linux (KDE)](https://www.fedoraproject.org/spins/kde/).
 
 - Windows (hot take: *eww*)
@@ -15,16 +18,6 @@ Currently using [Fedora Linux (KDE)](https://www.fedoraproject.org/spins/kde/).
 - 🇲🇾 Bahasa Melayu ialah bahasa ibunda saya! Nak cakap bahasa pasar pun boleh je :D
 - 🇬🇧 I can speak in English, both formally and informally.
 - 🇯🇵 私の日本語は少し上手です。
-
-## Stuff that I am learning
-Ordered according to proficiency.
-- C++
-- Java
-- HTML
-- CSS
-- Godot
-- Rust
-- Javascript
 
 # End notes
 ```
