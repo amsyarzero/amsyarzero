@@ -6,6 +6,10 @@ Hi, Amsyar here! This will be the place where I **post my code projects**, wheth
 - ⚙️ Software development
 - 🌐 Web development
 
+## Currently learning
+- Godot
+- Rust
+
 ## OS History
 Currently using [Fedora Linux (KDE)](https://www.fedoraproject.org/spins/kde/).
 
