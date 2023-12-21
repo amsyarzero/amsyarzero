@@ -11,17 +11,19 @@ Hi, Amsyar here! This will be the place where I **post my code projects**, wheth
 - Rust
 
 ## OS History
-Currently using [Fedora Linux (KDE)](https://www.fedoraproject.org/spins/kde/).
+Currently using [Arch Linux](https://archlinux.org). Details about the rice coming soon 😉
 
+Previous OSes:
 - Windows (hot take: *eww*)
 - [Pop!_OS](https://pop.system76.com) (hot take: *why do they name it like that*)
 - [Nobara ~~Kugisaki~~ Linux (KDE)](https://nobaraproject.org)
-- [Vanilla OS](https://vanillaos.org)
+- [Vanilla OS Kinetic](https://vanillaos.org)
+- [Fedora Linux (KDE)](https://www.fedoraproject.org/spins/kde/)
 
 ## Languages that I can speak
-- 🇲🇾 Bahasa Melayu ialah bahasa ibunda saya! Nak cakap bahasa pasar pun boleh je :D
+- 🇲🇾 Bahasa Melayu ialah bahasa ibunda saya! Nak cakap bahasa pasar pun boleh je 😄
 - 🇬🇧 I can speak in English, both formally and informally.
-- 🇯🇵 私の日本語は少し上手です。
+- 🇯🇵 日本語は少し上手です。
 
 # End notes
 ```
