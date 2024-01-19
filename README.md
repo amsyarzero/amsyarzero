@@ -23,7 +23,7 @@ Previous OSes:
 ## Languages that I can speak
 - 🇲🇾 Bahasa Melayu ialah bahasa ibunda saya! Nak cakap bahasa pasar pun boleh je 😄
 - 🇬🇧 I can speak in English, both formally and informally.
-- 🇯🇵 日本語は少し上手です。
+- 🇯🇵 日本語をちょっと話すことができます。
 
 # End notes
 ```
