@@ -11,7 +11,7 @@ Hi, Amsyar here! This will be the place where I **post my code projects**, wheth
 - Rust
 
 ## OS History
-Currently using [Arch Linux](https://archlinux.org). Details about the rice coming soon 😉
+Currently using [Arch Linux](https://archlinux.org) + [Kikurice](https://github.com/amsyarzero/kikurice), my own Arch setup based on Kikuri Hiroi from *Bocchi the Rock!*!
 
 Previous OSes:
 - Windows (hot take: *eww*)
