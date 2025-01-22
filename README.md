@@ -1,31 +1,17 @@
-# Who am I
-Hi, Amsyar here! This will be the place where I **post my code projects**, whether it be serious or for fun. I also write **short guides** in the form of [gists](https://gist.github.com/amsyarzero).
+# Siapa saya/Who am I/私って誰？
+👋🏽 Amsyar here! Here's the place where I **post my programming projects**, whether it be serious or fun.
 
-## Interests
-- 🎮 Game development
-- ⚙️ Software development
-- 🌐 Web development
+## Minat<sup>2</sup>/Interests/興味
+- ⚙️ Software dev
+- 🎮 Game dev
+- 🌐 Web dev
 
-## Currently learning
-- Godot
-- Rust
-
-## OS History
-Currently using [Arch Linux](https://archlinux.org) + [Kikurice](https://github.com/amsyarzero/kikurice), my own Arch setup based on Kikuri Hiroi from *Bocchi the Rock!*!
-
-Previous OSes:
-- Windows (hot take: *eww*)
-- [Pop!_OS](https://pop.system76.com) (hot take: *why do they name it like that*)
-- [Nobara ~~Kugisaki~~ Linux (KDE)](https://nobaraproject.org)
-- [Vanilla OS Kinetic](https://vanillaos.org)
-- [Fedora Linux (KDE)](https://www.fedoraproject.org/spins/kde/)
-
-## Languages that I can speak
+## Bahasa<sup>2</sup>/Languages/言語
 - 🇲🇾 Bahasa Melayu ialah bahasa ibunda saya! Nak cakap bahasa pasar pun boleh je 😄
 - 🇬🇧 I can speak in English, both formally and informally.
 - 🇯🇵 日本語をちょっと話すことができます。
 
 # End notes
 ```
-watch bocchi the rock
+watch bocchi the rock, very skibidi
 ```
