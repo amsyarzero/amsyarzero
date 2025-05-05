@@ -1,4 +1,4 @@
-# Siapa saya/Who am I/私って誰？
+# Siapa/Who/誰？
 👋🏽 Amsyar here! Here's the place where I **post my programming projects**, whether it be serious or fun.
 
 ## Minat<sup>2</sup>/Interests/興味
